@@ -11,10 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/upas-nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="upas-nath" height="30" width="40" /></a>
-<a href="https://fb.com/upasnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="upasnath" height="30" width="40" /></a>
-<a href="https://instagram.com/upas_nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upas_nath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/u-a mediaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="u-a mediaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swetha-prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha-prakash" height="30" width="40" /></a>
+<a href="https://instagram.com/stardust_sapphire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stardust_sapphire" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +23,7 @@
        
   <br/>
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=Upasnath&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upasnath&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 <br/>
