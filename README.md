@@ -4,7 +4,7 @@
 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a><br>
 🔭 I’m currently an MCA student at Amal Jyothi College,Kanjirapally.<br>
-🌱 I’m currently learning python<br>
+🌱 I’m currently learning python.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ I love to read books.<br>
 📫 How to reach me **swethaprakash0009@gmail.com**
