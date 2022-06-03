@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Upas</h1>
+<h1 align="center">Hi 👋, I'm Swetha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a><br>
-🔭 I’m currently an MCA student in Amal Jyothi College,Kanjirapally.<br>
-🌱 I’m currently learning java<br>
+🔭 I’m currently an MCA student at Amal Jyothi College,Kanjirapally.<br>
+🌱 I’m currently learning python<br>
 👯 I’m looking to collaborate with other programmers.<br>
-⚡️ Fun fact:I love video editing.<br>
-📫 How to reach me **upasnath2016@gmail.com**
+⚡️ I love .<br>
+📫 How to reach me **swethaprakash0009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,6 @@
   <br/>
  
 <br/>
-<img alt="UPAS NATH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Upasnath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="SWETHA PRAKASH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Upasnath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
